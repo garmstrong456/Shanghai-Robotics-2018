@@ -1,26 +1,15 @@
-# Cornell Robotics 2018
+# Shanghai Robotics 2018
 ### Example code and other resources for the Cornell Summer College class "Fabricating the Future"
 
 #### Useful links and documentation
 
-Useful library that reads and scales the IR distance sensor: https://github.com/jadr2ddude/SharpDist
-
-Weekend Design Challenge: https://docs.google.com/presentation/d/1Hv4F7Afax5wgMpNy3sY5FvtgueQv0MMicbO37gzj8J0/edit?usp=sharing
-
-Robot Motor Sizing Tutorial:
-https://www.robotshop.com/blog/en/drive-motor-sizing-tutorial-3661
-
-Bambot and M5Stack pin summary:
-https://drive.google.com/open?id=1gGa5mbhSfZkcndAggLj7LRP0fLRiW5C7YToWunI0xs0
+Build Instructions:
+https://docs.google.com/presentation/d/1Q2dMI2MtRwDjKAeJuK9opQevz0_zp-j7ozcgcgmdrMA/edit?usp=sharing
 
 Electronics Guide:
 https://drive.google.com/open?id=1RXKADt4pPwjaFT5l_wq1-40EfGdY3vQ4dFg0_OxjQOs
 
-Build Instructions:
-https://docs.google.com/presentation/d/1Q2dMI2MtRwDjKAeJuK9opQevz0_zp-j7ozcgcgmdrMA/edit?usp=sharing
-
 Alternate download link for the Windows Arduino ESP32 IDE
-
 https://drive.google.com/drive/folders/1ta2pXv-UpummTKtDSyMnSE21q8yQf27s?usp=sharing
 
 #### How to get this code (and other git repositories)
